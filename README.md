@@ -1,1 +1,1 @@
-# CSE423-Lab-assignments
+# Computer Graphics-Lab-assignments
